@@ -3,9 +3,9 @@
  */
 public class Coordinate {
 
-    int xcord;
-    int ycord;
-    int maxRadius;
+    private int xcord;
+    private int ycord;
+    private int maxRadius;
 
     static int XMAX = 1000;
     static int YMAX = 1000;
